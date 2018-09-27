@@ -14,7 +14,7 @@
 # define LIBGRAPH_H
 
 # include "libft.h"
-# include "mlx.h"
+# include "../../minilibx_macos/mlx.h"
 # include <math.h>
 
 # define ESC_KEY 53

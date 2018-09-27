@@ -53,6 +53,6 @@ List of new features :
 
 This was our first 4 people team and the scope of the project took around 4-5 months. For a lot of us who forgot most the math we have learned in high school, having to relearn what was forgotten and learn new math concepts and applying that into code made this project very educational.
 
-#### Links
+### Images
 
-- https://github.com/nothings/stb
+![Mirrors](http://i.imgur.com/pEeEJua.png)
